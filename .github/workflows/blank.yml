@@ -1,6 +1,7 @@
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
-0.0.0.0 local
+0.0.0.0 localhost
+0.0.0.1 localhost
 111.223.42.228 8085
 255.255.255.255 broadcasthost
 1255838806.gcloud.kgth.garenanow.com
@@ -9,22 +10,7 @@
 312556717.apollo.kgth.connect.gxx.garenanow.com
 4.1255838806.gcloud.kgth.connect.gxx.garenanow.com
 4.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
-antihack.connect.gxx.garenanow.com
-gcloud.kgth.connect.gxx.garenanow.com
-gcloud.kgth.garenanow.com
-apollo.live.kgtw.connect.gxx.garenanow.com
-apollo.kgth.connect.gxx.garenanow.com
-apollo.kgid.connect.gxx.garenanow.com
-apollo.kgth.connect.gxx.garenanow.com
-dir.3.312556717.apollo.kgth.connect.gxx.garenanow.com
-download.1.312556717.apollo.kgth.connect.gxx.garenanow.com
-puffer.10.312556717.apollo.kgth.connect.gxx.garenanow.com
-download.1255838806.gcloud.kgth.lolhelperph.garenanow.com
-puffer.1255838806.gcloud.kgth.lolhelperph.garenanow.com
-dir.1255838806.gcloud.kgth.lolhelperph.garenanow.com
-id.connect.gxx.garenanow.com
-th.game.proxy.connect.gxx.garenanow.com
-url.kgtw.connect.gxx.garenanow.com
+
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
@@ -63,3 +49,20 @@ ff02::3 ip6-allhosts
 0.0.0.1 gcloud.kgth.garenanow.com
 0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
 0.0.0.1 1255838806.gcloud.kgth.garenanow.com
+0.0.0.1 antihack.connect.gxx.garenanow.com
+0.0.0.1 gcloud.kgth.connect.gxx.garenanow.com
+0.0.0.1 gcloud.kgth.garenanow.com
+0.0.0.1 apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgid.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 dir.3.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 download.1.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 puffer.10.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 download.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+0.0.0.1 puffer.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+0.0.0.1 dir.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+0.0.0.1 id.connect.gxx.garenanow.com
+0.0.0.1 th.game.proxy.connect.gxx.garenanow.com
+0.0.0.1 url.kgtw.connect.gxx.garenanow.com
+
