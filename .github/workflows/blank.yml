@@ -1,7 +1,30 @@
 127.0.0.1 localhost
 127.0.0.1 localhost.localdomain
 0.0.0.0 local
+111.223.42.228 8085
 255.255.255.255 broadcasthost
+1255838806.gcloud.kgth.garenanow.com
+1.312556717.apollo.kgth.connect.gxx.garenanow.com
+3.312556717.apollo.kgth.connect.gxx.garenanow.com
+312556717.apollo.kgth.connect.gxx.garenanow.com
+4.1255838806.gcloud.kgth.connect.gxx.garenanow.com
+4.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
+antihack.connect.gxx.garenanow.com
+gcloud.kgth.connect.gxx.garenanow.com
+gcloud.kgth.garenanow.com
+apollo.live.kgtw.connect.gxx.garenanow.com
+apollo.kgth.connect.gxx.garenanow.com
+apollo.kgid.connect.gxx.garenanow.com
+apollo.kgth.connect.gxx.garenanow.com
+dir.3.312556717.apollo.kgth.connect.gxx.garenanow.com
+download.1.312556717.apollo.kgth.connect.gxx.garenanow.com
+puffer.10.312556717.apollo.kgth.connect.gxx.garenanow.com
+download.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+puffer.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+dir.1255838806.gcloud.kgth.lolhelperph.garenanow.com
+id.connect.gxx.garenanow.com
+th.game.proxy.connect.gxx.garenanow.com
+url.kgtw.connect.gxx.garenanow.com
 ::1 localhost
 ::1 ip6-localhost
 ::1 ip6-loopback
@@ -11,8 +34,7 @@ ff00::0 ip6-mcastprefix
 ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0 
-
+0.0.0.1 0.0.0.1 
 0.0.0.1 down.qq.com
 0.0.0.1 dlied1.qq.com
 0.0.0.1 dlied2.qq.com
