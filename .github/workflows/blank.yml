@@ -15,6 +15,7 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.1 0.0.0.1 
+0.0.0.1 qos.hk.gcloudcs.com
 0.0.0.1 down.qq.com
 0.0.0.1 dlied1.qq.com
 0.0.0.1 dlied2.qq.com
