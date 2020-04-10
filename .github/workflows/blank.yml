@@ -1,33 +1,43 @@
-# This is a basic workflow to help you get started with Actions
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+0.0.0.0 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0 
 
-name: CI
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
-on:
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: raw.githubusercontent.com/x-falcon/tools/master/hosts
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-
-    # Runs a single command using the runners shell
-    - name: Run a one-line script
-      run: echo Hello, world!
-
-    # Runs a set of commands using the runners shell
-    - name: Run a multi-line script
-      run: raw.githubusercontent.com/x-falcon/tools/master/hosts
-        echo Add other actions to build,
-        echo test, and deploy your project.
+0.0.0.1 down.qq.com
+0.0.0.1 dlied1.qq.com
+0.0.0.1 dlied2.qq.com
+0.0.0.1 dlied3.qq.com
+0.0.0.1 dlied4.qq.com
+0.0.0.1 dlied5.qq.com
+0.0.0.1 dlied6.qq.com
+0.0.0.1 appsupport.qq.com
+0.0.0.1 commdata.v.qq.com
+0.0.0.1 oth.eve.mdt.qq.com
+0.0.0.1 android.bugly.qq.com
+0.0.0.1 down.qq.com
+0.0.0.1 banpickmap.codm.garena.co.id
+0.0.0.1 hao.qq.com
+0.0.0.1 ied-tqos-tgp.qq.com
+0.0.0.1 appimg2.qq.com
+0.0.0.1 codm.garena.co.id
+0.0.0.1 www.callofduty.com
+0.0.0.1 uat.callofduty.com
+0.0.0.1 community.callofduty.com
+0.0.0.1 cloudctrl.codm.activision.com
+0.0.0.1 codm.garena.com
+0.0.0.1 speed.codm.garena.com
+0.0.0.1 antihack.connect.gxx.garenanow.com
+0.0.0.1 gcloud.kgth.connect.gxx.garenanow.com
+0.0.0.1 gcloud.kgth.garenanow.com
+0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 1255838806.gcloud.kgth.garenanow.com
