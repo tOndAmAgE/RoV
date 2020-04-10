@@ -4,12 +4,6 @@
 0.0.0.1 localhost
 111.223.42.228 8085
 255.255.255.255 broadcasthost
-1255838806.gcloud.kgth.garenanow.com
-1.312556717.apollo.kgth.connect.gxx.garenanow.com
-3.312556717.apollo.kgth.connect.gxx.garenanow.com
-312556717.apollo.kgth.connect.gxx.garenanow.com
-4.1255838806.gcloud.kgth.connect.gxx.garenanow.com
-4.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
 
 ::1 localhost
 ::1 ip6-localhost
@@ -45,26 +39,35 @@ ff02::3 ip6-allhosts
 0.0.0.1 codm.garena.com
 0.0.0.1 speed.codm.garena.com
 0.0.0.1 antihack.connect.gxx.garenanow.com
-0.0.0.1 gcloud.kgth.connect.gxx.garenanow.com
-0.0.0.1 gcloud.kgth.garenanow.com
-0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 1255838806.gcloud.kgth.garenanow.com
-0.0.0.1 antihack.connect.gxx.garenanow.com
-0.0.0.1 gcloud.kgth.connect.gxx.garenanow.com
-0.0.0.1 gcloud.kgth.garenanow.com
-0.0.0.1 apollo.live.kgtw.connect.gxx.garenanow.com
-0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 apollo.kgid.connect.gxx.garenanow.com
-0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 dir.3.312556717.apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 download.1.312556717.apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 puffer.10.312556717.apollo.kgth.connect.gxx.garenanow.com
-0.0.0.1 download.1255838806.gcloud.kgth.lolhelperph.garenanow.com
-0.0.0.1 puffer.1255838806.gcloud.kgth.lolhelperph.garenanow.com
-0.0.0.1 dir.1255838806.gcloud.kgth.lolhelperph.garenanow.com
 0.0.0.1 id.connect.gxx.garenanow.com
 0.0.0.1 th.game.proxy.connect.gxx.garenanow.com
 0.0.0.1 url.kgtw.connect.gxx.garenanow.com
-0.0.0.1 download.2.1255838806.gcloud.kgth.garenanow.com
+0.0.0.1 download.1.1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 download.1.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 download.2.1255838806.gcloud.kgth.connect.gxx.garenanow.com
+0.0.0.1 download.2.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
 0.0.0.1 puffer.6.1255838806.gcloud.kgth.garenanow.com
-0.0.0.1 dir.4.1255838806.gcloud.kgth.garenanow.com
+0.0.0.1 puffer.10.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 puffer.6.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
+0.0.0.1 dir.3.1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 dir.3.1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 dir.3.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 dir.4.1255838806.gcloud.kgth.connect.gxx.garenanow.com
+0.0.0.1 dir.4.1973195201.gcloud.kgtw.connect.gxx.garenanow.com
+0.0.0.1 antihack.connect.gxx.garenanow.com
+0.0.0.1 1.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 1.1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 admin.data.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgid.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 3.1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 3.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 3.312556717.apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 1014450293.apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 apollo.both.connect.gxx.garenanow.com
+0.0.0.1 apollo.bovn.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgid.connect.gxx.garenanow.com
+0.0.0.1 apollo.kgth.connect.gxx.garenanow.com
+0.0.0.1 apollo.live.kgtw.connect.gxx.garenanow.com
+0.0.0.1 id.game.proxy.connect.gxx.garenanow.com
+0.0.0.1 idupdate.connect.gxx.garenanow.com
