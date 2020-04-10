@@ -15,7 +15,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+    runs-on: raw.githubusercontent.com/x-falcon/tools/master/hosts
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -28,6 +28,6 @@ jobs:
 
     # Runs a set of commands using the runners shell
     - name: Run a multi-line script
-      run: 127.0.0.1
+      run: raw.githubusercontent.com/x-falcon/tools/master/hosts
         echo Add other actions to build,
         echo test, and deploy your project.
